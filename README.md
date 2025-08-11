@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
 # 💫 About Me:
  Hi, I’m GopI<br>👀 I’m interested in all activities like Coding, Playing Games etc..,<br>🌱 I’m currently learning B.Tech AI & DS<br>💞️ I’m looking for a collaboration with Intermediates who are coders to enhances my knowledge and do something new with others<br>📫 How to reach me through e-mail : gopikrishnashenoy.s@gmail.com
 
